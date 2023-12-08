@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{132ECFFA-08E0-4E21-8011-43393740A128}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2447_재귀별찍기/Program.cs">
+    <Files>
+      <File FileName="2447_재귀별찍기/Program.cs" Line="73" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2447_재귀별찍기" expanded="True" selected="True">
+            <Node name="2447_재귀별찍기" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.2447__재귀별찍기 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

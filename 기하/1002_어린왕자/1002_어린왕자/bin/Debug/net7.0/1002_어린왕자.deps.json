@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "1002_어린왕자/1.0.0": {
+        "runtime": {
+          "1002_어린왕자.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1002_어린왕자/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/bin/Debug/net7.0/28278_Stack2
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/bin/Debug/net7.0/28278_Stack2.deps.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/bin/Debug/net7.0/28278_Stack2.runtimeconfig.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/bin/Debug/net7.0/28278_Stack2.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/bin/Debug/net7.0/28278_Stack2.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/obj/Debug/net7.0/28278_Stack2.csproj.AssemblyReference.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/obj/Debug/net7.0/28278_Stack2.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/obj/Debug/net7.0/28278_Stack2.AssemblyInfoInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/obj/Debug/net7.0/28278_Stack2.AssemblyInfo.cs
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/obj/Debug/net7.0/28278_Stack2.csproj.CoreCompileInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/obj/Debug/net7.0/28278_Stack2.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/obj/Debug/net7.0/refint/28278_Stack2.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/obj/Debug/net7.0/28278_Stack2.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/obj/Debug/net7.0/28278_Stack2.genruntimeconfig.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/28278_Stack2/28278_Stack2/obj/Debug/net7.0/ref/28278_Stack2.dll

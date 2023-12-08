@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/9012_괄호/9012_괄호/9012_괄호/9012_괄호.csproj": {}
+  },
+  "projects": {
+    "/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/9012_괄호/9012_괄호/9012_괄호/9012_괄호.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/9012_괄호/9012_괄호/9012_괄호/9012_괄호.csproj",
+        "projectName": "9012_괄호",
+        "projectPath": "/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/9012_괄호/9012_괄호/9012_괄호/9012_괄호.csproj",
+        "packagesPath": "/Users/jakkelab/.nuget/packages/",
+        "outputPath": "/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Stack/9012_괄호/9012_괄호/9012_괄호/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jakkelab/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

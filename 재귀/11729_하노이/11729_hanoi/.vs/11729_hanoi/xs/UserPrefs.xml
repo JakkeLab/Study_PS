@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{2A67A865-A720-4BDB-9888-F6103D70A409}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="11729_hanoi/Program.cs">
+    <Files>
+      <File FileName="11729_hanoi/Program.cs" Line="16" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="11729_hanoi" expanded="True" selected="True">
+            <Node name="11729_hanoi" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.11729__hanoi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

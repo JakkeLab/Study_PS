@@ -1,0 +1,15 @@
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/bin/Debug/net7.0/8958_OXQuiz
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/bin/Debug/net7.0/8958_OXQuiz.deps.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/bin/Debug/net7.0/8958_OXQuiz.runtimeconfig.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/bin/Debug/net7.0/8958_OXQuiz.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/bin/Debug/net7.0/8958_OXQuiz.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/obj/Debug/net7.0/8958_OXQuiz.csproj.AssemblyReference.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/obj/Debug/net7.0/8958_OXQuiz.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/obj/Debug/net7.0/8958_OXQuiz.AssemblyInfoInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/obj/Debug/net7.0/8958_OXQuiz.AssemblyInfo.cs
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/obj/Debug/net7.0/8958_OXQuiz.csproj.CoreCompileInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/obj/Debug/net7.0/8958_OXQuiz.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/obj/Debug/net7.0/refint/8958_OXQuiz.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/obj/Debug/net7.0/8958_OXQuiz.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/obj/Debug/net7.0/8958_OXQuiz.genruntimeconfig.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/8958_OXQuiz/obj/Debug/net7.0/ref/8958_OXQuiz.dll

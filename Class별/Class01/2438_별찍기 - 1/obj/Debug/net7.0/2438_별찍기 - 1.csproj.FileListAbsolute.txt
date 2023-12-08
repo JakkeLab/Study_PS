@@ -1,0 +1,15 @@
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/bin/Debug/net7.0/2438_별찍기 - 1
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/bin/Debug/net7.0/2438_별찍기 - 1.deps.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/bin/Debug/net7.0/2438_별찍기 - 1.runtimeconfig.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/bin/Debug/net7.0/2438_별찍기 - 1.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/bin/Debug/net7.0/2438_별찍기 - 1.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/obj/Debug/net7.0/2438_별찍기 - 1.csproj.AssemblyReference.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/obj/Debug/net7.0/2438_별찍기 - 1.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/obj/Debug/net7.0/2438_별찍기 - 1.AssemblyInfoInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/obj/Debug/net7.0/2438_별찍기 - 1.AssemblyInfo.cs
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/obj/Debug/net7.0/2438_별찍기 - 1.csproj.CoreCompileInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/obj/Debug/net7.0/2438_별찍기 - 1.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/obj/Debug/net7.0/refint/2438_별찍기 - 1.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/obj/Debug/net7.0/2438_별찍기 - 1.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/obj/Debug/net7.0/2438_별찍기 - 1.genruntimeconfig.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/2438_별찍기 - 1/obj/Debug/net7.0/ref/2438_별찍기 - 1.dll

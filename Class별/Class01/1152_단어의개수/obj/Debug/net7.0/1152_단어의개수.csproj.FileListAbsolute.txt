@@ -1,0 +1,15 @@
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/bin/Debug/net7.0/1152_단어의개수
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/bin/Debug/net7.0/1152_단어의개수.deps.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/bin/Debug/net7.0/1152_단어의개수.runtimeconfig.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/bin/Debug/net7.0/1152_단어의개수.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/bin/Debug/net7.0/1152_단어의개수.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/obj/Debug/net7.0/1152_단어의개수.csproj.AssemblyReference.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/obj/Debug/net7.0/1152_단어의개수.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/obj/Debug/net7.0/1152_단어의개수.AssemblyInfoInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/obj/Debug/net7.0/1152_단어의개수.AssemblyInfo.cs
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/obj/Debug/net7.0/1152_단어의개수.csproj.CoreCompileInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/obj/Debug/net7.0/1152_단어의개수.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/obj/Debug/net7.0/refint/1152_단어의개수.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/obj/Debug/net7.0/1152_단어의개수.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/obj/Debug/net7.0/1152_단어의개수.genruntimeconfig.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1152_단어의개수/obj/Debug/net7.0/ref/1152_단어의개수.dll

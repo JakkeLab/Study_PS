@@ -1,0 +1,15 @@
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/bin/Debug/net7.0/10809_알파벳찾기
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/bin/Debug/net7.0/10809_알파벳찾기.deps.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/bin/Debug/net7.0/10809_알파벳찾기.runtimeconfig.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/bin/Debug/net7.0/10809_알파벳찾기.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/bin/Debug/net7.0/10809_알파벳찾기.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/obj/Debug/net7.0/10809_알파벳찾기.csproj.AssemblyReference.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/obj/Debug/net7.0/10809_알파벳찾기.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/obj/Debug/net7.0/10809_알파벳찾기.AssemblyInfoInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/obj/Debug/net7.0/10809_알파벳찾기.AssemblyInfo.cs
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/obj/Debug/net7.0/10809_알파벳찾기.csproj.CoreCompileInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/obj/Debug/net7.0/10809_알파벳찾기.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/obj/Debug/net7.0/refint/10809_알파벳찾기.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/obj/Debug/net7.0/10809_알파벳찾기.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/obj/Debug/net7.0/10809_알파벳찾기.genruntimeconfig.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/10809_알파벳찾기/obj/Debug/net7.0/ref/10809_알파벳찾기.dll

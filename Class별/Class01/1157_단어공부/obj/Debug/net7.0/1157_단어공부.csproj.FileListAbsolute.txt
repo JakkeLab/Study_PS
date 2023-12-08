@@ -1,0 +1,15 @@
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/bin/Debug/net7.0/1157_단어공부
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/bin/Debug/net7.0/1157_단어공부.deps.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/bin/Debug/net7.0/1157_단어공부.runtimeconfig.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/bin/Debug/net7.0/1157_단어공부.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/bin/Debug/net7.0/1157_단어공부.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/obj/Debug/net7.0/1157_단어공부.csproj.AssemblyReference.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/obj/Debug/net7.0/1157_단어공부.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/obj/Debug/net7.0/1157_단어공부.AssemblyInfoInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/obj/Debug/net7.0/1157_단어공부.AssemblyInfo.cs
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/obj/Debug/net7.0/1157_단어공부.csproj.CoreCompileInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/obj/Debug/net7.0/1157_단어공부.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/obj/Debug/net7.0/refint/1157_단어공부.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/obj/Debug/net7.0/1157_단어공부.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/obj/Debug/net7.0/1157_단어공부.genruntimeconfig.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/Class별/Class01/1157_단어공부/obj/Debug/net7.0/ref/1157_단어공부.dll

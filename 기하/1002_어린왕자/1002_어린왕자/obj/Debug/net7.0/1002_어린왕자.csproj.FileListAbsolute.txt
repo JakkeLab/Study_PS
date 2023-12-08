@@ -1,0 +1,15 @@
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/bin/Debug/net7.0/1002_어린왕자
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/bin/Debug/net7.0/1002_어린왕자.deps.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/bin/Debug/net7.0/1002_어린왕자.runtimeconfig.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/bin/Debug/net7.0/1002_어린왕자.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/bin/Debug/net7.0/1002_어린왕자.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/obj/Debug/net7.0/1002_어린왕자.csproj.AssemblyReference.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/obj/Debug/net7.0/1002_어린왕자.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/obj/Debug/net7.0/1002_어린왕자.AssemblyInfoInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/obj/Debug/net7.0/1002_어린왕자.AssemblyInfo.cs
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/obj/Debug/net7.0/1002_어린왕자.csproj.CoreCompileInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/obj/Debug/net7.0/1002_어린왕자.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/obj/Debug/net7.0/refint/1002_어린왕자.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/obj/Debug/net7.0/1002_어린왕자.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/obj/Debug/net7.0/1002_어린왕자.genruntimeconfig.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/기하/1002_어린왕자/1002_어린왕자/obj/Debug/net7.0/ref/1002_어린왕자.dll
