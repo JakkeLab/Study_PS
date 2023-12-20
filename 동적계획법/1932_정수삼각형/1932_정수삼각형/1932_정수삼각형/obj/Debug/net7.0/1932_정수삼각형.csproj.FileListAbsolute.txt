@@ -1,0 +1,15 @@
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/obj/Debug/net7.0/1932_정수삼각형.csproj.AssemblyReference.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/obj/Debug/net7.0/1932_정수삼각형.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/obj/Debug/net7.0/1932_정수삼각형.AssemblyInfoInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/obj/Debug/net7.0/1932_정수삼각형.AssemblyInfo.cs
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/obj/Debug/net7.0/1932_정수삼각형.csproj.CoreCompileInputs.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/bin/Debug/net7.0/1932_정수삼각형
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/bin/Debug/net7.0/1932_정수삼각형.deps.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/bin/Debug/net7.0/1932_정수삼각형.runtimeconfig.json
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/bin/Debug/net7.0/1932_정수삼각형.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/bin/Debug/net7.0/1932_정수삼각형.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/obj/Debug/net7.0/1932_정수삼각형.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/obj/Debug/net7.0/refint/1932_정수삼각형.dll
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/obj/Debug/net7.0/1932_정수삼각형.pdb
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/obj/Debug/net7.0/1932_정수삼각형.genruntimeconfig.cache
+/Volumes/JakkeLabDev/01_DEV/Study/BOJ/동적계획법/1932_정수삼각형/1932_정수삼각형/1932_정수삼각형/obj/Debug/net7.0/ref/1932_정수삼각형.dll
